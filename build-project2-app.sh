@@ -5,7 +5,7 @@
 # Global Variables
 containerName="project2-app"
 containerIP="10.0.0.120"
-containerImage="cau/project2-image"
+containerImage="myorg/project2-image"
 
 # Set summon path
 export PATH=$PATH:/usr/local/lib/summon
